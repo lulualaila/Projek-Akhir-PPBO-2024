@@ -1,40 +1,40 @@
-<!--Project Name-->
-<h1>MP3 Music Player App</h1>
+<!--Nama Proyek-->
+<h1>Aplikasi Pemutar Musik MP3</h1>
 
-<!--Introduction-->
-<h2>Introduction</h2>
-<p>In this project, you'll learn how to build a MP3 Music Player App in Java! You can check out the full tutorial <a href="https://www.youtube.com/watch?v=xf0aH2K3oJ4">here</a>
-  , where I carefully go over the logic flow so that you can understand how this project is coded the way it was.
+<!--Pendahuluan-->
+<h2>Pendahuluan</h2>
+<p>
+Aplikasi Pemutar Musik MP3 adalah proyek yang bertujuan untuk mengembangkan sebuah aplikasi desktop berbasis Java yang mampu memutar file MP3 dengan berbagai fitur tambahan. Proyek ini dirancang untuk memberikan pengalaman mendengarkan musik yang nyaman, sekaligus memberikan pengembang wawasan tentang cara kerja pemrosesan audio menggunakan Java. 
+Aplikasi ini dibangun dengan memanfaatkan beberapa pustaka Java populer yang mendukung manipulasi file audio, pengelolaan metadata, dan fitur antarmuka pengguna.
 </p>
 
-<!--Technologies/Frameworks-->
-<h2>Technologies Frameworks</h2>
+<!--Teknologi/Framework-->
+<h2>Teknologi dan Framework</h2>
 <ul>
-  <li><b>JDK 18+ - Java Version</b></li>
-  <li><b>Mp3Magic</b> - A java library for reading mp3 files and manipulating mp3 file ID3 tags</li>
-  <li><b>JLayer</b> - MP3 decoder/player/converter library for Java™ platform. </li>
-  <li><b>JAudioTagger</b> - The aim of this project is to provide a world class Java library for editing tag information in audio files. Most existing solutions are not java based inhibiting the use of java applications with digital files. </li>
+  <li><b>JDK 18+ - Versi Java</b></li>
+  <li><b>Mp3Magic</b> - Perpustakaan Java untuk membaca file MP3 dan memanipulasi tag ID3 pada file MP3</li>
+  <li><b>JLayer</b> - Perpustakaan untuk mendekode, memutar, atau mengonversi file MP3 pada platform Java™</li>
+  <li><b>JAudioTagger</b> - Perpustakaan Java untuk mengedit informasi tag pada file audio, mendukung aplikasi Java dalam mengelola file digital</li>
 </ul>
 
-<!--Features-->
-<h2>Features</h2>
+<!--Fitur-->
+<h2>Fitur</h2>
 <ul>
-  <li>🎶 Play an MP3 File (Song)</li>
-  <li>🎙 Display Title of Song</li>
-  <li>👤 Display Artist of Song</li>
-  <li>⏳ Display the Length of the Song</li>
-  <li>⏪ Playback Functionality</li>
-  <li>⏸ Pause Song</li>
-    <li>▶ Resume Song</li>
-  <li>⏭  Go to next Song in a playlist</li>
-  <li>⏮  Go to previous Song in a playlist</li>
-  <li>📃 Create a Custom Playlist</li>
-  <li>🔃 Load a Custom Playlist</li>
+  <li>Memutar file MP3</li>
+  <li>Menampilkan judul lagu</li>
+  <li>Menampilkan nama artis</li>
+  <li>Menampilkan durasi lagu</li>
+  <li>Fungsi putar ulang</li>
+  <li>Menjeda lagu</li>
+  <li>Melanjutkan lagu</li>
+  <li>Berpindah ke lagu berikutnya dalam daftar putar</li>
+  <li>Berpindah ke lagu sebelumnya dalam daftar putar</li>
+  <li>Membuat daftar putar khusus</li>
+  <li>Memuat daftar putar khusus</li>
 </ul>
 
-
-<!--Screenshots (GIFs/PNGs)-->
-<h2>Screenshots</h2>
+<!--Tangkapan Layar-->
+<h2>Tangkapan Layar</h2>
 <p align="center">
-  <img src="https://github.com/curadProgrammer/Java-Swing-MusicPlayer/blob/main/Screenshot_38.png" alt="Music Player App Screenshot">
+  <img src="https://github.com/curadProgrammer/Java-Swing-MusicPlayer/blob/main/Screenshot_38.png" alt="Tangkapan Layar Aplikasi Pemutar Musik">
 </p>
