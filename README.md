@@ -36,5 +36,5 @@ Aplikasi ini dibangun dengan memanfaatkan beberapa pustaka Java populer yang men
 <!--Tangkapan Layar-->
 <h2>Tangkapan Layar</h2>
 <p align="center">
-  <img src="https://github.com/curadProgrammer/Java-Swing-MusicPlayer/blob/main/Screenshot_38.png" alt="Tangkapan Layar Aplikasi Pemutar Musik">
+  <img src="src/assets/bernadya.png" alt="Tangkapan Layar Aplikasi Pemutar Musik">
 </p>
